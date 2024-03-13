@@ -69,5 +69,15 @@ Is this the **real** red button? Has our journey finally come to an end? Only on
 
 - [X] Tap the red button
 
+## Video Demo
+
+Here's a video / GIF that demos all of the app's implemented features:
+
+<p align="center">
+  <img src='https://imgur.com/725ms3l.gif' title='Video Demo' width='' alt='Video Demo' />
+</p>
+
+GIF created with **ScreentoGif**
+
 🎉 Congratulations, you've successfully completed the challenge! 🎉
 You have shown that you are more than capable as an Engineer, and the company will be extending an offer. Now go change the world! 🚀
