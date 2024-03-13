@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--- 
 This is a template of a lab for 2022 CodePath course development.  
 
@@ -78,3 +79,6 @@ Is this the **real** red button? Has our journey finally come to an end? Only on
 
 🎉 Congratulations, you've successfully completed the challenge! 🎉
 You have shown that you are more than capable as an Engineer, and the company will be extending an offer. Now go change the world! 🚀
+=======
+# red_button
+>>>>>>> 8976661b2d7c1f8dcbfcf9c5b866a4a3b21e2dea
